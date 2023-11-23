@@ -1,0 +1,16 @@
+{
+  "name": "translate-with-gpt-denops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./denops/translate-with-gpt-denops/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.12.0",
+    "@typescript-eslint/parser": "^6.12.0",
+    "eslint": "^8.54.0"
+  }
+}
