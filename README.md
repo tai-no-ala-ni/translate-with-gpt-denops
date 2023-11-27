@@ -18,6 +18,10 @@ call dein#add("tai-no-ala-ni/translate-with-gpt-denops")
 
 - Neovim v0.10.0
 
+## demo
+
+![demo](https://github.com/tai-no-ala-ni/translate-with-gpt-denops/assets/59446815/f5490e3a-cbe2-40d0-95c9-ee68e8eed2d4)
+
 ## todo
 
 - [ ] 使い方の映像を追加
